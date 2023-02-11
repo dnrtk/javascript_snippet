@@ -1,0 +1,14 @@
+.calender_base {
+    width: 100%;
+    text-align: center;
+}
+
+.calender_base #id_calender_label {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.calender_base button {
+    background-color: transparent;
+    border-width: 0;
+}
